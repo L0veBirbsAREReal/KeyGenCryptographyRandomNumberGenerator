@@ -4,10 +4,11 @@ Hay stack Mass KeyGen for Cryptography Soft via RNG
 Haystack of 1,000,000 *.keyx files generated in 'K:\'
 Light weight, concealable/lo-profile MicroSD key for VeraCrypt, KeePass/XC etc.
 
-Perfect, with Kingston USB Micro SD Reader FCR - MRG2 Adapter, I wear it around my neck.
-(One in transit, one at A and one at B) I remove to interface via PnP to
-unlock file(s)/containers (eg *.kdbx or VeraCrypt) whether via USB ports on my machine,
-laptop or mobile phone via the now standardised Type-C USB-C OTG Cable Male to USB3.
+Perfect, air-gapped with Kingston USB Micro SD Reader FCR - MRG2 Adapter, I wear it
+around my neck. (One in transit, one at A and one at B) I remove to interface via PnP
+to unlock file(s)/containers (eg *.kdbx or VeraCrypt) whether via USB ports on my
+machine, laptop or mobile phone via the now standardised Type-C USB-C OTG Cable Male
+to USB3 female.
 
 Breaking up the philosophy of security via obscurity,
 a nice addition to following the philosophy of authentication ~ Something You Have,
