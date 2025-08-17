@@ -16,9 +16,9 @@ Something You Know, and Something You Are...
 
 If the origins of this philosophy do strike intrigue then strike a key when instructed
 Otherwise Ctrl C below as the keys are done. Additionally these type of keys can be
-easily hand written and reconstituted digitally, printed and/or sent under the stamp of
-postage mail. I can't tell you all my tricks but get creative if you are going to post
-a hard drive across Jurisdictions
+easily hand written and reconstituted digitally, printed (Cold Storage) and/or sent 
+under the stamp of postage mail. I can't tell you all my tricks but get creative if
+you are going to post a hard drive across Jurisdictions
 
 Missing link mentioned :
 https://security.stackexchange.com/questions/33667/what-is-the-origin-of-the-three-factors-of-authentication
